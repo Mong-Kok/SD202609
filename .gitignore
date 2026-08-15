@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 実行時に生成されるもの
+figures/
+output/
+.DS_Store

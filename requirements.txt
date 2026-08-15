@@ -1,0 +1,3 @@
+numpy>=1.26
+matplotlib>=3.8
+global-land-mask>=1.0   # 海岸線描画用(なければ地図は点のみで描画される)
